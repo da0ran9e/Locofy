@@ -1,0 +1,672 @@
+.mainBackground {
+  position: absolute;
+  top: 69px;
+  left: 69px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1782px;
+  height: 941.32px;
+}
+.projects,
+.reactVue {
+  position: absolute;
+  top: 135.21px;
+}
+.projects {
+  left: 110.83px;
+  color: var(--color-white);
+}
+.reactVue {
+  left: 394.25px;
+}
+.porfolioProjectsDesktopChild {
+  position: absolute;
+  top: 125.44px;
+  left: 379.5px;
+  width: 1px;
+  height: 836px;
+}
+.porfolioProjectsDesktopItem {
+  position: absolute;
+  top: 126.57px;
+  left: 567.98px;
+  width: 1px;
+  height: 40.28px;
+}
+.porfolioProjectsDesktopInner,
+.vectorIcon {
+  position: absolute;
+  top: 165.23px;
+  left: 69px;
+  width: 1782px;
+  height: 1px;
+}
+.vectorIcon {
+  top: 142.59px;
+  left: 91px;
+  width: 8.5px;
+  height: 6px;
+}
+.porfolioProjectsDesktopChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 165.73px;
+  left: 1824.5px;
+  width: 1px;
+  height: 795.72px;
+}
+.rectangleDiv {
+  top: 168.73px;
+  left: 1828.75px;
+  background-color: var(--color-slategray-100);
+  width: 18.5px;
+  height: 7px;
+}
+.closeIcon {
+  position: absolute;
+  top: 137.71px;
+  left: 538.35px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.span {
+  color: var(--color-slategray-100);
+}
+.project1Container,
+.project2Container,
+.project3Container {
+  position: absolute;
+  top: 280.9px;
+  left: 507.65px;
+  color: var(--color-royalblue-100);
+}
+.project2Container,
+.project3Container {
+  left: 918.65px;
+}
+.project3Container {
+  left: 1329.65px;
+}
+.cardChild,
+.cardItem {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.cardChild {
+  height: 100%;
+  bottom: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+}
+.cardItem {
+  height: 46.2%;
+  bottom: 53.8%;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.duisAuteIrure {
+  position: absolute;
+  width: 82.27%;
+  top: 53.82%;
+  left: 8.37%;
+  line-height: 150%;
+  display: inline-block;
+}
+.startGame {
+  position: relative;
+}
+.component3 {
+  position: absolute;
+  height: 12.07%;
+  width: 34.83%;
+  top: 77.91%;
+  right: 56.8%;
+  bottom: 10.02%;
+  left: 8.37%;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkslategray-200);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-sm);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.iconBox {
+  position: absolute;
+  height: 8.89%;
+  width: 7.56%;
+  top: 6.04%;
+  right: 4.68%;
+  bottom: 85.07%;
+  left: 87.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.card,
+.card1,
+.card2 {
+  position: absolute;
+  top: 316.7px;
+  left: 507.65px;
+  width: 370.35px;
+  height: 314.82px;
+  font-size: var(--font-size-lg);
+}
+.card1,
+.card2 {
+  left: 918.65px;
+}
+.card2 {
+  left: 1329.65px;
+}
+.checkChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-slategray-100);
+  border: 1px solid var(--color-slategray-100);
+  box-sizing: border-box;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 45.78%;
+  width: 64.64%;
+  top: 27.11%;
+  right: 17.68%;
+  bottom: 27.11%;
+  left: 17.68%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.check {
+  position: relative;
+  border-radius: var(--br-11xs);
+  width: 18.81px;
+  height: 18.81px;
+}
+.technologiesLogosIcon {
+  position: absolute;
+  height: 100%;
+  width: 29.27%;
+  top: 0;
+  right: 70.73%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.react {
+  position: absolute;
+  top: 6.25%;
+  left: 41.46%;
+}
+.technologiesLogosParent {
+  position: relative;
+  width: 82px;
+  height: 24px;
+}
+.reactRow {
+  position: absolute;
+  top: 183px;
+  left: 91px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  color: var(--color-white);
+}
+.checkItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-slategray-100);
+  box-sizing: border-box;
+}
+.check1 {
+  position: relative;
+  width: 18.81px;
+  height: 18.81px;
+}
+.technologiesLogosIcon1 {
+  position: absolute;
+  height: 100%;
+  width: 32.88%;
+  top: 0;
+  right: 67.12%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.react1 {
+  position: absolute;
+  top: 6.25%;
+  left: 46.58%;
+}
+.technologiesLogosGroup {
+  position: relative;
+  width: 73px;
+  height: 24px;
+}
+.htmlRow {
+  position: absolute;
+  top: 224.14px;
+  left: 91px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.technologiesLogosIcon2 {
+  position: absolute;
+  height: 100%;
+  width: 38.1%;
+  top: 0;
+  right: 61.9%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.react2 {
+  position: absolute;
+  top: 6.25%;
+  left: 53.97%;
+}
+.technologiesLogosContainer {
+  position: relative;
+  width: 63px;
+  height: 24px;
+}
+.cssRow {
+  position: absolute;
+  top: 265.28px;
+  left: 91px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.technologiesLogosIcon3 {
+  position: absolute;
+  height: 100%;
+  width: 38.1%;
+  top: 0;
+  right: 61.9%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vueRow {
+  position: absolute;
+  top: 306.42px;
+  left: 91px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  color: var(--color-white);
+}
+.technologiesLogosIcon4 {
+  position: absolute;
+  height: 100%;
+  width: 23.53%;
+  top: 0;
+  right: 76.47%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.react4 {
+  position: absolute;
+  top: 6.25%;
+  left: 33.33%;
+}
+.technologiesLogosParent1 {
+  position: relative;
+  width: 102px;
+  height: 24px;
+}
+.angularRow {
+  position: absolute;
+  top: 347.56px;
+  left: 91px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.technologiesLogosIcon5 {
+  position: absolute;
+  height: 100%;
+  width: 26.09%;
+  top: 0;
+  right: 73.91%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.react5 {
+  position: absolute;
+  top: 6.25%;
+  left: 36.96%;
+}
+.technologiesLogosParent2 {
+  position: relative;
+  width: 92px;
+  height: 24px;
+}
+.gatsbyRow {
+  position: absolute;
+  top: 388.7px;
+  left: 91px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.check6,
+.checkChild4 {
+  border-radius: var(--br-11xs);
+  box-sizing: border-box;
+}
+.checkChild4 {
+  position: absolute;
+  height: 82.47%;
+  width: 82.47%;
+  top: 0;
+  right: 17.53%;
+  bottom: 17.53%;
+  left: 0;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-slategray-100);
+}
+.check6 {
+  position: relative;
+  border: 2px solid rgba(96, 123, 150, 0.3);
+  width: 22.81px;
+  height: 22.81px;
+}
+.flutterRow {
+  position: absolute;
+  top: 429.84px;
+  left: 91px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.mouseIcon {
+  position: absolute;
+  top: 447.34px;
+  left: 93px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.contactMe,
+.michealWeaver {
+  position: absolute;
+  top: 31.31%;
+  left: 1.23%;
+}
+.contactMe {
+  left: 92.76%;
+  text-align: right;
+}
+.header3Child,
+.header3Item {
+  position: absolute;
+  height: 1.78%;
+  width: 100%;
+  top: 99.11%;
+  right: 0;
+  bottom: -0.89%;
+  left: 0;
+  border-radius: var(--br-21xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.header3Item {
+  height: 100%;
+  width: 0.06%;
+  top: 0;
+  right: 8.56%;
+  bottom: 0;
+  left: 91.39%;
+}
+.header3Inner,
+.headerTextChild {
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+}
+.header3Inner {
+  position: absolute;
+  height: 99.66%;
+  width: 0.06%;
+  top: 0.44%;
+  right: 82.52%;
+  bottom: -0.1%;
+  left: 17.42%;
+}
+.headerTextChild {
+  position: relative;
+  width: 1px;
+  height: 56px;
+}
+.headerText {
+  flex: 1;
+  padding: 0 0 0 var(--padding-13xl);
+  justify-content: center;
+  gap: var(--gap-12xl);
+}
+.component6,
+.headerText,
+.headerTextParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.component6 {
+  flex: 1;
+  padding: 0 0 0 var(--padding-13xl);
+  justify-content: center;
+  gap: var(--gap-12xl);
+  color: var(--color-white);
+}
+.headerTextParent {
+  position: absolute;
+  height: 97.88%;
+  width: 23.63%;
+  top: 1.33%;
+  right: 58.92%;
+  bottom: 0.79%;
+  left: 17.45%;
+  justify-content: flex-start;
+}
+.header3 {
+  position: absolute;
+  top: 69px;
+  left: 69px;
+  width: 1782px;
+  height: 56.19px;
+}
+.headerUnderline3 {
+  position: absolute;
+  top: 123px;
+  left: 651px;
+  background-color: var(--color-sandybrown);
+  width: 151px;
+  height: 3px;
+}
+.footer3Child,
+.frameIcon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.footer3Child {
+  height: 97.99%;
+  width: 0.06%;
+  top: 2.01%;
+  right: 9.01%;
+  bottom: 0;
+  left: 90.94%;
+  border-radius: var(--br-21xl);
+}
+.frameIcon {
+  height: 48.25%;
+  width: 1.35%;
+  top: 26.69%;
+  right: 1.24%;
+  bottom: 25.06%;
+  left: 97.42%;
+}
+.findMeIn,
+.username {
+  position: absolute;
+  top: 27.76%;
+  left: 92.26%;
+}
+.findMeIn {
+  top: 30.16%;
+  left: 1.23%;
+}
+.footer3Child1,
+.footer3Child2,
+.footer3Inner,
+.footer3Item {
+  position: absolute;
+  height: 2.01%;
+  width: 100%;
+  top: -1.01%;
+  right: 0;
+  bottom: 98.99%;
+  left: 0;
+  border-radius: var(--br-21xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.footer3Child1,
+.footer3Child2,
+.footer3Inner {
+  height: 97.99%;
+  width: 0.06%;
+  top: 0;
+  right: 91.78%;
+  bottom: 2.01%;
+  left: 8.16%;
+}
+.footer3Child1,
+.footer3Child2 {
+  right: 88.86%;
+  left: 11.08%;
+}
+.footer3Child2 {
+  right: 85.94%;
+  left: 14%;
+}
+.frameIcon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.socialMedia,
+.socialMedia1 {
+  position: absolute;
+  height: 98.51%;
+  width: 2.92%;
+  top: 0;
+  right: 88.89%;
+  bottom: 1.49%;
+  left: 8.19%;
+  background-color: var(--color-silver);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs) var(--padding-sm);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.4;
+}
+.socialMedia1 {
+  right: 85.97%;
+  left: 11.11%;
+}
+.footer3 {
+  position: absolute;
+  top: 960px;
+  left: 69px;
+  width: 1782px;
+  height: 49.74px;
+}
+.porfolioProjectsDesktop {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-slategray-100);
+  font-family: var(--font-fira-code);
+}
